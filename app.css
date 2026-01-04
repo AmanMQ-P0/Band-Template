@@ -1,0 +1,214 @@
+/* ========== Body ========== */
+body {
+  background-color: #e6e6c7;
+}
+
+/* ========== Navbar ========== */
+nav.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 55px;
+}
+
+nav div.container-fluid {
+  background-color: #000000;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#color-text {
+  color: #ffffff;
+  padding: 20px 25px;
+}
+
+nav div a#color-text {
+  margin-right: 0;
+}
+
+button span {
+  background-color: #ffffff;
+  margin-bottom: 0px;
+}
+
+#color-text:hover {
+  background-color: #f7e1e1;
+  color: #000000;
+}
+
+i#color-text:hover {
+  background-color: #f60909;
+  color: #ffffff;
+}
+
+ul.dropdown-menu li a:hover {
+  background-color: #d6d6a5;
+}
+
+/* ========== Halaman Konten ========== */
+div.container-fluid {
+  padding: 0 0;
+}
+
+/* ========== Home ========== */
+section div.position-absolute {
+  text-align: center;
+  color: #ffffff;
+  bottom: 5%;
+}
+
+/* ========== Band ========== */
+section#band {
+  max-width: 800px;
+  text-align: center;
+  padding: 130px 50px 100px;
+  background-color: #f5d5d5;
+}
+
+section#band div.container {
+  padding-top: 45px;
+}
+
+section#band div.container p {
+  padding: 20px 0 0;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+figure blockquote p i {
+  font-size: 15px;
+}
+
+figure figcaption.blockquote-footer {
+  font-size: 10px;
+}
+
+/* ========== Tour ========== */
+section#tour {
+  background-color: #000000;
+  padding-bottom: 150px;
+}
+
+section#tour div.mx-auto {
+  max-width: 800px;
+  color: #ffffff;
+}
+
+section#tour div.container h2 {
+  padding-top: 100px;
+}
+
+ul.list-group {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 40px;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+ul.list-group li span {
+  background-color: #f60909;
+}
+
+section#tour div#margin {
+  margin-top: 40px;
+}
+
+section#tour div#margin div.row {
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+div.container#margin div.col-md-4 img:hover {
+  opacity: 75%;
+}
+
+div.text-start {
+  background-color: #ffffff;
+  color: #000000;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+div.text-start h2.p-0 {
+  font-size: 20px;
+}
+
+/* ========== Modal ========== */
+div.modal div div div.modal-header {
+  color: white;
+  background-color: #94a694;
+  height: 180px;
+}
+
+div.modal div div div.modal-header button:hover {
+  background-color: #ffffff;
+}
+
+button.btn {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+button.btn:hover {
+  background-color: #e7e7e7;
+  color: #000000;
+}
+
+/* ========== Contact ========== */
+section#contact {
+  max-width: 800px;
+  background-color: #f5d5d5;
+  padding-top: 120px;
+  padding-bottom: 60px;
+}
+
+section#contact h2 {
+  padding-bottom: 15px;
+}
+
+/* ========== Footer ========== */
+footer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-size: 30px;
+}
+
+footer i:hover {
+  opacity: 75%;
+}
+
+footer p {
+  padding-top: 20px;
+}
+
+footer p a {
+  text-decoration: none;
+}
+
+footer p a:hover {
+  display: inline-block;
+  background-color: blue;
+  color: white;
+  padding: 10px 5px;
+  border-radius: 10px;
+}
+
+/* ========== Media Query 768px ========== */
+@media (max-width: 768px) {
+  i#color-text {
+    display: none;
+  }
+
+  section div.position-absolute {
+    display: none;
+  }
+
+  section#tour div#margin {
+    margin-top: 0;
+  }
+
+  div.container#margin div.col-md-4 {
+    margin-top: 40px;
+  }
+}
