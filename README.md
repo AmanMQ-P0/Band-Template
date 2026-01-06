@@ -1,51 +1,51 @@
-# Band Template  
-*(Learning Project / Proyek Pembelajaran)*
-
-## 🇮🇩 Deskripsi (Bahasa Indonesia)
-
-Website ini dibuat sebagai **latihan belajar front-end development**.
-
-Tampilan dan beberapa perilaku JavaScript **terinspirasi dari template W3Schools (W3.CSS)**.  
-Namun, **project ini TIDAK menggunakan W3.CSS**.
-
-Seluruh struktur dan styling ditulis ulang dari awal menggunakan:
-- HTML
-- CSS
-- Bootstrap
-
-Project ini bertujuan untuk melatih pemahaman dasar hingga menengah
-dalam membangun layout website dan menerapkan komponen Bootstrap.
-
-Project ini **bukan untuk keperluan komersial**, dan digunakan murni sebagai media pembelajaran.
-
-### Masukan & Saran
-Saya masih dalam tahap belajar, sehingga **saran, kritik, dan masukan**
-untuk merapikan struktur kode maupun meningkatkan kualitas implementasi
-sangat saya hargai.
+# 🎸 Band Template  
+*Front-End Learning Project*
 
 ---
 
-## 🇬🇧 Description (English)
+## 🇮🇩 Deskripsi
 
-This website is created as a **front-end learning project**.
+**Band Template** adalah project latihan yang dibuat untuk mempelajari dan melatih **front-end web development**.
 
-The layout and some JavaScript behaviors are **inspired by a W3Schools (W3.CSS) template**.  
-However, **this project does NOT use W3.CSS**.
+Tampilan website dan beberapa perilaku JavaScript terinspirasi dari template **W3Schools (W3.CSS)**.  
+Namun, **project ini tidak menggunakan W3.CSS**.
 
-The implementation is written from scratch using:
-- HTML
-- CSS
-- Bootstrap
+Seluruh kode ditulis dari awal menggunakan:
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
 
-This project is intended to practice building website layouts
-and applying Bootstrap components in a real example.
+Fokus pembelajaran pada project ini:
+- Struktur HTML yang rapi dan semantik
+- Layout responsif menggunakan Bootstrap
+- Penggunaan komponen dan utility class Bootstrap
+- JavaScript dasar untuk interaksi halaman
 
-This is a **non-commercial project**, created purely for educational purposes.
+Project ini bersifat **non-komersial** dan dibuat khusus untuk **tujuan pembelajaran**.
 
-### Feedback
-As I am still learning front-end development,  
-any suggestions, feedback, or improvements to help clean up
-and improve the code are very welcome.
+---
+
+## 🇬🇧 Description
+
+**Band Template** is a learning project created to practice **front-end web development**.
+
+The visual layout and some JavaScript behaviors are inspired by a **W3Schools (W3.CSS) template**.  
+However, **this project does not use W3.CSS**.
+
+All code is written from scratch using:
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
+
+This project focuses on:
+- Clean and semantic HTML structure
+- Responsive layouts with Bootstrap
+- Using Bootstrap components and utility classes
+- Basic JavaScript interactions
+
+This is a **non-commercial project**, created purely for **learning purposes**.
 
 ---
 
@@ -59,3 +59,23 @@ and improve the code are very welcome.
 
 ## 🌐 Live Demo
 https://amanmq-p0.github.io/Band-Template/
+
+---
+
+## 📝 Feedback
+
+I am continuously learning front-end development.  
+Any **feedback, suggestions, or improvements** related to code structure, layout, or best practices are very welcome.
+
+---
+
+## 📬 Contact
+- 📧 Email: **abulmundzirabdurrahman@gmail.com**
+- 💻 GitHub: https://github.com/AmanMQ-P0
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for **educational purposes only**.  
+Design inspiration is used solely as a learning reference and not for commercial use.
